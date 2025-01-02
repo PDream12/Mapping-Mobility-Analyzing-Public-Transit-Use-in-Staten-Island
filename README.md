@@ -52,6 +52,9 @@ npm run dev
 
 The application will be available at \`http://localhost:3000\`
 
+5. Add to personal code base:
+npx shadcn@latest add "https://v0.dev/chat/b/b_nfK8eLjh2RZ?token=eyJhbGciOiJkaXIiLCJlbmMiOiJBMjU2R0NNIn0..cr8SVPzVmcKJzwzn.Q6TLVJTuDUQDo0r_nAFQQYODxj76DWHJ2M02DVtF16PbM-riSO3VxgY2-iw.XTxrXnphkaa5Rwuc2No6nw"
+
 ## Project Structure
 
 - \`/app\` - Next.js 14 app directory containing pages and layouts
